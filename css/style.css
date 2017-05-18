@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+}
+.col-sm-6 {
+  width: 500px;
+  height: 500px;
+}
+.lifeBar {
+  margin-top: 20px;
+  width: 100px;
+  height: 25px;
+  background-color: red;
+}
